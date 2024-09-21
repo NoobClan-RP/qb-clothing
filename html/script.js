@@ -492,6 +492,7 @@ $(document).on('click', '.clothing-menu-myOutfit-option-button', function(e) {
         outfitData: outfitData.skin,
         outfitName: outfitData.outfitname,
         outfitId: outfitData.outfitId,
+        outfitModel: outfitData.model
     }))
 });
 
